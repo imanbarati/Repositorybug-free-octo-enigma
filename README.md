@@ -1,3 +1,486 @@
+فیلترشکن VPn 
+وی پی ان رایگان ایران واتساپ یوتیوب اینستاگرام instagram whatsapp youtube facebook فیس بوک فیسبوک 
+
+
+راه اندازی در اندروید
+۱. ابتدا آخرین ورژن برنامه v2rayNG را از https://github.com/2dust/v2rayNG/releases دانلود و نصب کنید
+
+۲. حال نیاز به یک سرتیفیکیت شخصی دارید برای اینکار میتوانید همان فایلهای mycert.crt, mycert.key را که در ویندوز ایجاد کردید را به گوشی خود منتقل کنید و از همانها استفاده کنید یا اینکه به طور مثال میتوانید به طور مستقیم از سایت
+
+https://regery.com/en/security/ssl-tools/self-signed-certificate-generator
+
+با یک نام دلخواه سرتیفیکیت بسازید و هر دو فایل crt و key را دانلود کنید در این صورت باید نام فایل crt را به mycert.crt و نام فایل key را به mycert.key تغییر دهید
+
+هشدار: حتما از سرتیفیکیت شخصی خود استفاده کنید و به هیچ عنوان از سرتیفیکیت (crt) دیگران استفاده نکنید و همچنین فایل پرایویت‌کی (key) خود را به هیچ شخصی ندهید
+
+۳. در برنامه v2rayNG و در قسمت Asset files هر دو فایل mycert.crt, mycert.key را وارد کنید
+
+۴. حال باید سرتیفیکیت (crt) را به عنوان یک trusted root certificate به سیستم عامل اندروید معرفی کنید برای این کار مراحل زیر را طی کنید:
+
+Setting -> Security and privacy -> More security settings -> Install from device storage -> CA Certificate -> Install anyway -> Select mycert.crt file on your storage.
+
+اگر با موفقیت این قسمت انجام شود میتوانید سرتیفیکیت وارد شده را در قسمت
+
+Setting -> Security and privacy -> More security settings -> View security certificates -> User.
+
+مشاهده کنید، دقت کنید که این مراحل ممکن است بر روی گوشی های مختلف کمی متفاوت باشد
+
+۵. کانفیگ MITM-DomainFronting.json را از طریق import from locally وارد برنامهv2rayNG کنید و اجرا کنید همچنین دقت کنید که Enable Hev TUN FEATURE در تنظیمات v2rayNG فعال باشد و همچنین پورت پیشفرض 10808 را تغییر نداده باشید.
+
+۶. کار تمام است اکنون میتوانید بر روی مرورگر کروم (و به طور کلی تمامی مرورگرهای مبتنی بر کرومیوم) از این متد استفاده کنید
+
+و در صورتی که از مرورگر فایرفاکس استفاده میکنید باید مراحل اضافه زیر را طی کنید
+
+firefox browser -> Settings -> About Firefox -> Tap the Firefox logo five times -> Navigate to Settings -> Secret Settings -> Toggle "Use third party CA certificates"
+
+دقت کنید برای اندروید غیر روت فقط از طریق مرورگرها میتوانید ازین متد استفاده کنید و برنامه های مستقل امکان استفاده از این متد را معمولا ندارند.
+
+
+
+json
+{
+  "__Credits__": {
+    "creator": "@patterniha",
+    "donate1": "USDT (BEP20): 0x76a768B53Ca77B43086946315f0BDF21156bF424",
+    "donate2": "USDT (TRC20): TU5gKvKqcXPn8itp1DouBCwcqGHMemBm8o",
+    "donate3": "TON (TON): UQAc-mZB3y7uxWHKiMmq0ORZEYgycWDWZ4V1k73HsXvTJx-i"
+  },
+
+
+  "remarks": "MITM-DomainFronting_v22",
+
+  "version": {
+    "min": "26.2.6"
+  },
+
+  "log": {
+    "loglevel": "warning", "dnsLog": false, "access": "none"
+  },
+
+  "policy": {
+    "levels": {
+      "0": {
+        "uplinkOnly": 0,
+        "downlinkOnly": 0
+      }
+    }
+  },
+
+  "dns":{
+    "hosts": {
+      "geosite:category-ads-all": "#3",
+	  "fastly.redirect": "github.githubassets.com",
+      "dns.redirect": ["1.1.1.1", "1.0.0.1"]
+    },
+    "servers": [
+      {
+        "address": "fakedns",
+        "domains": ["domain:ir", "geosite:private", "geosite:category-ir", "full:github.githubassets.com"]
+      },
+      {
+        "tag": "no-filter-dns",
+        "address": "h2c://1.1.1.1/dns-query",
+        "timeoutMs": 15000,
+        "finalQuery": true
+      },
+      {
+        "address": "localhost",
+        "domains": ["domain:ir", "geosite:private", "geosite:category-ir", "full:github.githubassets.com"],
+        "finalQuery": true
+      }
+    ],
+    "queryStrategy": "UseSystem",
+    "useSystemHosts": true,
+    "serveStale": true
+  },
+
+  "inbounds": [
+    {
+      "tag": "mixed-in",
+      "port": 10808,
+      "protocol": "mixed",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": ["fakedns", "tls"],
+        "routeOnly": false
+      },
+      "settings": {
+        "udp": true,
+        "ip": "127.0.0.1"
+      },
+      "streamSettings": {
+        "sockopt": {
+          "tcpKeepAliveInterval": 1,
+          "tcpKeepAliveIdle": 11
+        }
+      }
+    },
+	{
+      "port": 11666,
+      "tag": "tls-decrypt-h11",
+      "protocol": "tunnel",
+      "settings": {
+        "network": "tcp",
+        "port": 443,
+        "followRedirect": true
+      },
+      "streamSettings": {
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": ["http/1.1"],
+          "certificates": [
+            {
+              "usage": "issue",
+              "certificateFile": "mycert.crt",
+              "keyFile": "mycert.key"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "port": 11777,
+      "tag": "tls-decrypt-h211",
+      "protocol": "tunnel",
+      "settings": {
+        "network": "tcp",
+        "port": 443,
+        "followRedirect": true
+      },
+      "streamSettings": {
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": ["h2","http/1.1"],
+          "certificates": [
+            {
+              "usage": "issue",
+              "certificateFile": "mycert.crt",
+              "keyFile": "mycert.key"
+            }
+          ]
+        }
+      }
+    }
+  ],
+
+  "outbounds": [
+    {
+      "tag": "block",
+      "protocol": "block"
+    },
+	{
+      "tag": "direct",
+      "protocol": "direct",
+      "streamSettings": {
+        "sockopt": {
+          "domainStrategy": "ForceIP",
+          "happyEyeballs": {
+            "tryDelayMs": 300,
+            "prioritizeIPv6": false,
+            "interleave": 2,
+            "maxConcurrentTry": 20
+          }
+        }
+      }
+	},
+    {
+      "tag": "dns-out",
+      "protocol": "dns"
+    },
+	{
+      "tag": "redirect-out-h11",
+      "protocol": "direct",
+      "settings": {
+        "redirect": "127.0.0.1:11666"
+      }
+    },
+    {
+      "tag": "redirect-out-h211",
+      "protocol": "direct",
+      "settings": {
+        "redirect": "127.0.0.1:11777"
+      }
+    },
+    {
+      "tag": "tls-repack-frommitm",
+      "protocol": "direct",
+      "streamSettings": {
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "fromMitM",
+          "verifyPeerCertByName": "fromMitM",
+          "alpn": ["fromMitM"],
+          "fingerprint": "chrome"
+        },
+		"sockopt": {
+          "domainStrategy": "ForceIP",
+          "happyEyeballs": {
+            "tryDelayMs": 300,
+            "prioritizeIPv6": false,
+            "interleave": 2,
+            "maxConcurrentTry": 20
+          }
+        }
+      }
+    },
+    {
+      "tag": "tls-repack-dns",
+      "protocol": "direct",
+      "settings": {
+        "redirect": "dns.redirect:443"
+      },
+      "streamSettings": {
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "www.microsoft.com",
+          "verifyPeerCertByName": "fromMitM,www.microsoft.com,www.google.com,dns.google,cloudflare-dns.com,one.one.one.one",
+          "alpn": ["fromMitM"],
+          "fingerprint": "chrome"
+        },
+		"sockopt": {
+          "domainStrategy": "ForceIP",
+          "happyEyeballs": {
+            "tryDelayMs": 300,
+            "prioritizeIPv6": false,
+            "interleave": 2,
+            "maxConcurrentTry": 20
+          }
+        }
+      }
+    },
+	{
+      "tag": "tls-repack-google",
+      "protocol": "direct",
+      "streamSettings": {
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "www.google.com",
+          "verifyPeerCertByName": "fromMitM,www.google.com,dns.google,www.googlevideo.com,www.youtube.com",
+          "alpn": ["fromMitM"],
+          "fingerprint": "chrome"
+        },
+		"sockopt": {
+          "domainStrategy": "ForceIP",
+          "happyEyeballs": {
+            "tryDelayMs": 300,
+            "prioritizeIPv6": false,
+            "interleave": 2,
+            "maxConcurrentTry": 20
+          }
+        }
+      }
+    },
+	{
+      "tag": "tls-repack-fastly",
+      "protocol": "direct",
+      "settings": {
+        "redirect": "fastly.redirect:443"
+      },
+      "streamSettings": {
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "github.githubassets.com",
+          "verifyPeerCertByName": "fromMitM,www.python.org,pypi.org,fastly.com,www.fastly.com,developer.fastly.com,reddit.com,githubassets.com,github.com,github.io,githubusercontent.com,github.githubassets.com",
+          "alpn": ["fromMitM"],
+          "fingerprint": "chrome"
+        },
+		"sockopt": {
+          "domainStrategy": "ForceIP",
+          "happyEyeballs": {
+            "tryDelayMs": 300,
+            "prioritizeIPv6": false,
+            "interleave": 2,
+            "maxConcurrentTry": 20
+          }
+        }
+      }
+    },
+    {
+      "tag": "tls-repack-meta",
+      "protocol": "direct",
+      "streamSettings": {
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "www.microsoft.com",
+          "verifyPeerCertByName": "fromMitM,www.google.com,www.microsoft.com,www.whatsapp.com,www.facebook.com,www.ar.meta.com,www.fb.com,www.whatsapp.net,www.atlassolutions.com,www.secure.facebook.com,www.extern.facebook.com,www.internet.org,www.oculus.com,www.wit.ai,www.facebook-dns.com,www.instagram.com,www.meta.com,www.external-disputes.meta.com,www.fbe2e.com,www.cloud.x2p.facebook.net,www.secure.latest.facebook.com",
+          "alpn": ["fromMitM"],
+          "fingerprint": "chrome"
+        },
+		"sockopt": {
+          "domainStrategy": "ForceIP",
+          "happyEyeballs": {
+            "tryDelayMs": 300,
+            "prioritizeIPv6": false,
+            "interleave": 2,
+            "maxConcurrentTry": 20
+          }
+        }
+      }
+    }
+  ],
+
+  "routing": {
+    "domainStrategy": "IPOnDemand",
+    "rules": [
+      {
+	   "outboundTag": "block",
+       "domain": ["geosite:category-ads-all"]
+      },
+      {
+	   "outboundTag": "tls-repack-dns",
+       "inboundTag": ["no-filter-dns"]
+      },
+      {
+	   "outboundTag": "dns-out",
+       "port": 53
+      },
+      {
+	   "outboundTag": "direct",
+       "domain": ["domain:ir", "geosite:private", "geosite:category-ir", "geosite:khanacademy"]
+      },
+      {
+	   "outboundTag": "tls-repack-google",
+       "domain": ["domain:googlevideo.com"],
+       "inboundTag": ["tls-decrypt-h11"]
+	  },
+      {
+	   "outboundTag": "block",
+       "inboundTag": ["tls-decrypt-h11"]
+	  },
+      {
+	   "outboundTag": "tls-repack-google",
+       "domain": ["geosite:google"],
+       "inboundTag": ["tls-decrypt-h211"]
+	  },
+	  {
+	   "outboundTag": "tls-repack-fastly",
+       "domain": ["geosite:fastly", "geosite:reddit", "geosite:cnn", "domain:buzzfeed.com"],
+       "inboundTag": ["tls-decrypt-h211"]
+	  },
+      {
+	   "outboundTag": "tls-repack-meta",
+       "domain": ["geosite:meta"],
+       "inboundTag": ["tls-decrypt-h211"]
+	  },
+	  {
+	   "outboundTag": "tls-repack-fastly",
+       "ip": ["geoip:fastly"],
+       "inboundTag": ["tls-decrypt-h211"]
+	  },
+      {
+	   "outboundTag": "block",
+       "inboundTag": ["tls-decrypt-h211"]
+	  },
+      {
+        "outboundTag": "redirect-out-h11",
+        "network": "tcp",
+        "port": 443,
+        "domain": ["domain:googlevideo.com"]
+      },
+      {
+        "outboundTag": "redirect-out-h211",
+        "network": "tcp",
+        "port": 443,
+        "domain": ["geosite:google", "geosite:meta", "geosite:fastly", "geosite:reddit", "geosite:cnn", "domain:buzzfeed.com"]
+      },
+      {
+        "outboundTag": "block",
+        "ip": ["10.10.34.0/24", "2001:4188:2:600::/64"]
+      },
+      {
+	   "outboundTag": "direct",
+       "ip": ["geoip:private", "geoip:ir"]
+      },
+	  {
+        "outboundTag": "redirect-out-h211",
+        "network": "tcp",
+        "port": 443,
+        "ip": ["geoip:fastly"]
+      },
+      {
+	   "outboundTag": "direct",
+       "ip": ["0.0.0.0/0", "::/0"]
+      },
+      {
+	   "outboundTag": "block",
+       "port": "0-65535"
+      }
+    ]
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+api.figma.com
+api2.cursor.sh
+atlassian.com
+auth.vercel.com
+cdnjs.cloudflare.com
+cdnjs.com
+certum.eu
+chess.com
+code.visualstudio.com
+coursera.org
+cursor.com
+debian.org
+digicert.com
+fedoraproject.org
+figma.com
+github.com
+google.com
+grafana.com
+kiwix.bokhary.fun
+libgen.pw
+linuxmint.com
+mirrormanager.fedoraproject.org
+mirrors.mit.edu
+mirrors.xtom.de
+mirrors.xtom.ee
+npmjs.com
+nuget.org
+pubmed.ncbi.nlm.nih.gov
+react.dev
+sciencedirect.com
+tailwindcss.com
+tradingview.com
+ubuntu.com
+udemy.com
+vercel.com
+www.atlassian.com
+
+
+
+
 Charles
 Use alt domain fronting control depending
  android https://github.com/therealaleph/MasterHttpRelayVPN-RUST/issues
