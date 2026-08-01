@@ -1,3 +1,16 @@
+The discussion you're viewing focuses on a Pull Request (PR) for `Xray-core` aimed at bypassing Deep Packet Inspection (DPI) in Iran, specifically by mimicking a "python-tls-fingerprint."
+
+Here is a summary of the technical debate within that thread:
+
+  * **The Goal:** The primary objective was to enable the use of "InsecureCipherSuites" (which are actually just legacy/obsolete cipher suites) within `uTLS` configurations. This is necessary because current DPI mechanisms in Iran appear to specifically check for these cipher suites, and the `python-tls-fingerprint` requires them to successfully bypass detection.
+  * **The Conflict:**
+      * **`patterniha` (Author):** Argued that enabling `InsecureCipherSuites` is the most straightforward solution. They initially attempted to add several new parameters to `copyconfig` to gain more control over the TLS handshake, but this was criticized by others.
+      * **`Fangliding` (Member):** Pointed out that `uTLS` is designed to ignore these configurations for standard fingerprints because it manages the handshake internally. They argued that the new parameters were invalid for standard use cases and suggested just enabling `InsecureCipherSuites` directly via `gotls` rather than modifying `uTLS` configurations unnecessarily.
+      * **`RPRX` (Member):** Expressed skepticism about the effectiveness of this specific "python-fingerprint" mimicry, noting that the Iranian GFW could easily adapt to it without much collateral damage. They preferred implementing a proper "python fingerprint" instead of relying on custom cipher suites.
+  * **The Resolution:** The discussion moved toward limiting the scope of the changes. The contributors agreed to revert unnecessary modifications to `tls.go` and `copyconfig` to avoid polluting the `uTLS` configuration logic. They settled on a more surgical approach, allowing `InsecureCipherSuites` primarily for `unsafe` fingerprints where it is actually effective, and acknowledging that more comprehensive work (like a native Python fingerprint) might be needed if the GFW becomes stricter.
+
+Would you like me to help you summarize the technical steps they eventually agreed upon for your implementation, or are you looking for more information on a specific part of the code they discussed?
+
 
 Weirdly, if you use python-tls-fingerprint, you can bypass dpi even on the most restrictive ISPs in Iran.
 and for now to imitate python-tls-fingerprint, you just need to imitate it's cipherSuites (of course, the fragment also needs to be set up correctly so that cipherSuites is read by GFW but not SNI)
