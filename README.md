@@ -1,3 +1,17 @@
+
+Weirdly, if you use python-tls-fingerprint, you can bypass dpi even on the most restrictive ISPs in Iran.
+and for now to imitate python-tls-fingerprint, you just need to imitate it's cipherSuites (of course, the fragment also needs to be set up correctly so that cipherSuites is read by GFW but not SNI)
+
+but even python-3.14.6-default-tls uses some cipherSuites that are listed in go-crypto/tls-InsecureCipherSuites.
+so to imitate python-tls-fingerprint, you need to be able to use "InsecureCipherSuites" as well.
+
+The word "InsecureCipherSuites" is a bit confusing. actually, they are not insecure, they are just obsolete and generally not recommended.
+
+///
+to be more precise, they only allowed python-tls-cipherSuites, which means the first 13 cipher should be almost identical to the first 13 in python-cipherSuites (with a few exceptions), for example the 13th-cipher must be "TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256 (0xc027)", otherwise dpi cannot be bypassed.
+
+also, utls does not have python-fingerprint and none of the other fingerprints, even the old ones, have this feature, so we have to use tls with custom-cipherSuites.
+
 جعبه ابزار قطعی کامل اینترنتدانلود فیلترشکن مجانی وی پی ان رایگان
 https://github.com/appshubcc/Bettbox/releases 
 بت باکس ویتوری وی توری
