@@ -1,3 +1,96 @@
+The user is asking "چه شکل استفاده میشود" (How is it used / In what form is it used). They're asking about how to actually use the personal DoH endpoint from Gateway - i.e., how to configure it in a browser or system.
+
+Let me provide practical instructions on how to use the DoH endpoint from Cloudflare Gateway in browsers and operating systems.
+
+Agent
+نحوه استفاده از DoH شخصی Gateway
+وقتی تو Zero Trust یک DNS Location ساختید و DoH endpoint دریافت کردید (مثلاً abcdefg.cloudflare-gateway.com)، می‌تونید این‌طوری ازش استفاده کنید:
+
+1. در مرورگر Firefox
+Settings → Privacy & Security → DNS over HTTPS → Max Protection
+
+روی Choose Provider کلیک کنید
+Custom رو انتخاب کنید
+این URL رو وارد کنید:
+https://abcdefg.cloudflare-gateway.com/dns-query
+ذخیره کنید
+2. در Chrome / Edge / Brave
+فعلاً DoH سفارشی فقط با providerهای شناخته‌شده کار می‌کنه (مثل Cloudflare 1.1.1.1). DoH اختصاصی Gateway به‌طور مستقیم پشتیبانی نمی‌شه. برای استفاده باید از Cloudflare One Client (WARP) استفاده کنید:
+
+Cloudflare One Client رو نصب کنید
+تنظیمات رو روی حالت WARP یا DoH only بذارید
+Gateway به‌صورت خودکار کوئری‌های DNS رو از طریق endpoint شما ارسال می‌کنه
+3. در سیستم‌عامل (Windows 11 / macOS / Linux)
+Windows 11:
+Settings → Network & Internet → DNS server assignment → Edit
+DoH رو روشن کنید
+این آدرس رو وارد کنید:
+https://abcdefg.cloudflare-gateway.com/dns-query
+macOS:
+System Settings → Network → Wi-Fi → Details → DNS
+DoH endpoint رو به‌صورت URL وارد کنید
+Linux:
+از systemd-resolved یا dnscrypt-proxy استفاده کنید:
+
+# systemd-resolved
+sudo systemctl edit systemd-resolved
+[Resolve]
+DNS=abcdefg.cloudflare-gateway.com
+DNSOverTLS=yes
+4. با Cloudflare One Client (ساده‌ترین روش)
+این روش پیشنهادیه چون خودش DoH رو مدیریت می‌کنه:
+
+Cloudflare One Client رو از داشبورد Zero Trust دانلود کنید
+با اکانت Zero Trust خودتون لاگین کنید
+Client به‌صورت خودکار از DoH endpoint شما استفاده می‌کنه
+policyهای Gateway (فیلترینگ، بلاک دامنه و غیره) به‌صورت خودکار اعمال می‌شن
+نکته مهم
+DoH endpoint شما فقط زمانی کار می‌کنه که دستگاه به اکانت Zero Trust شما متصل باشه (یا از طریق WARP یا با token احراز هویت)
+بدون احراز هویت، endpoint DoH Gateway به کوئری‌های ناشناس جواب نمی‌ده
+کدوم روش رو می‌خواید استفاده کنید؟ اگر Cloudflare One Client رو می‌خواید، می‌تونم کمکتون کنم نصبش کنید.
+
+هردو
+
+
+See reasoning
+→
+Ran Retrieve existing Gateway DNS locations to ch...
+→
+Running Create a new DNS location named "Personal DoH......
+Agent
+شما قبلاً یک Default Location در Gateway دارید که DoH endpoint فعاله. نیازی به ساخت location جدید نیست — می‌تونید از همین استفاده کنید.
+
+DoH endpoint شما
+https://xxxx.cloudflare-gateway.com/dns-query
+این endpoint آماده‌ست و می‌تونید هم در مرورگر و هم در Cloudflare One Client ازش استفاده کنید.
+
+۱. تنظیم در مرورگر Firefox
+Settings → Privacy & Security
+اسکرول کنید به پایین، بخش DNS over HTTPS
+Max Protection رو انتخاب کنید
+روی Choose Provider کلیک کنید → Custom
+این آدرس رو وارد کنید:
+https://xxxx.cloudflare-gateway.com/dns-query
+OK → ذخیره کنید
+۲. نصب و تنظیم Cloudflare One Client (WARP)
+به صفحه Zero Trust برید
+به My Team → Devices → Device settings برید
+یک Device profile بسازید (یا Default رو ویرایش کنید)
+مطمئن بشید WARP mode روی DNS یا WARP تنظیم شده
+Cloudflare One Client رو از این صفحه دانلود کنید (Windows / macOS / Linux / iOS / Android)
+بعد از نصب، با ایمیل baratiiman3@gmail.com لاگین کنید
+Client به‌صورت خودکار از DoH endpoint شما استفاده می‌کنه
+تنظیم WARP روی حالت DNS-only (فقط DoH)
+اگر می‌خواید فقط DNS از طریق Gateway بره و بقیه ترافیک مستقیم باشه:
+
+روی آیکون Cloudflare Client کلیک کنید
+Settings → Advanced → Connection options
+WARP mode رو روی DNS only بذارید
+این‌طوری فقط کوئری‌های DNS از طریق Gateway و DoH شما عبور می‌کنه و ترافیک عادی مستقیم می‌ره.
+
+می‌خواید کمکتون کنم policyهای Gateway (مثل بلاک‌کردن دامنه‌های خاص یا فیلترینگ) رو هم تنظیم کنید؟
+
+
 ۷ گیگابایت ۷ روزه
 
 حجم بسته
