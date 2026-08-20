@@ -1,4 +1,795 @@
-مقایسه بسته ها اینترنت ایران value   profitablity
+۷ گیگابایت ۷ روزه
+
+حجم بسته
+۷ گیگابایت
+نوع بسته
+۷ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۴۷,۴۳۰ تومان
+
+خرید آنلاین
+۱۴ گیگابایت ۷ روزه
+
+حجم بسته
+۱۴ گیگابایت
+نوع بسته
+۷ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۸۳,۵۴۰ تومان
+
+خرید آنلاین
+۱۰ گیگابایت ۳۰ روزه
+
+حجم بسته
+۱۰ گیگابایت
+نوع بسته
+۳۰ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۵۸,۹۰۰ تومان
+
+خرید آنلاین
+۱۵ گیگابایت ۳۰ روزه
+
+حجم بسته
+۱۵ گیگابایت
+نوع بسته
+۳۰ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۷۷,۸۸۰ تومان
+
+خرید آنلاین
+۳۰ گیگابایت ۳۰ روزه
+
+حجم بسته
+۳۰ گیگابایت
+نوع بسته
+۳۰ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۱۲۳,۱۹۰ تومان
+
+خرید آنلاین
+۵۰گیگابایت ۳۰ روزه
+
+حجم بسته
+۵۰ گیگابایت
+نوع بسته
+۳۰ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۱۶۷,۰۸۰ تومان
+
+خرید آنلاین
+۹۰گیگابایت ۳۰ روزه
+
+حجم بسته
+۹۰ گیگابایت
+نوع بسته
+۳۰ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۲۵۹,۱۲۰ تومان
+
+خرید آنلاین
+۱۰۰گیگابایت ۲ تا ۷ صبح ۳۰ روزه
+
+حجم بسته
+۱۰۰ گیگابایت
+نوع بسته
+۳۰ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۹۴,۸۷۰ تومان
+
+خرید آنلاین
+۲۰۰ گیگابایت ۲تا۷ صبح ۳۰ روزه
+
+حجم بسته
+۲۰۰ گیگابایت
+نوع بسته
+۳۰ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۱۶۱,۴۲۰ تومان
+
+خرید آنلاین
+۳۰۰گیگابایت ۲تا۷ صبح ۳۰ روزه
+
+حجم بسته
+۳۰۰ گیگابایت
+نوع بسته
+۳۰ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۲۲۷,۹۷۰ تومان
+
+خرید آنلاین
+۲ مگابیت اقتصادی ۳۰ روزه
+
+حجم بسته
+-
+نوع بسته
+۳۰ روزه
+بسته تا ۲ مگابیت بر ثانیه ۳۰ روزه ۶۰ گیگابایت
+
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۱۵۲,۹۲۰ تومان
+
+خرید آنلاین
+۴ مگابیت اقتصادی ۳۰ روزه
+
+حجم بسته
+-
+نوع بسته
+۳۰ روزه
+بسته تا ۴ مگابیت بر ثانیه ۳۰ روزه ۸۰ گیگابایت
+
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۱۸۹,۷۴۰ تومان
+
+خرید آنلاین
+۸ مگابیت اقتصادی ۳۰ روزه
+
+حجم بسته
+-
+نوع بسته
+۳۰ روزه
+بسته تا ۸ مگابیت بر ثانیه ۳۰ روزه ۱۰۰ گیگابایت
+
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۲۲۷,۹۷۰ تومان
+
+خرید آنلاین
+۱۲۰ گیگابایت ۹۰ روزه
+
+حجم بسته
+۱۲۰ گیگابایت
+نوع بسته
+۹۰ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۴۱۷,۷۲۰ تومان
+
+خرید آنلاین
+۲۴۰ گیگابایت ۹۰ روزه
+
+حجم بسته
+۲۴۰ گیگابایت
+نوع بسته
+۹۰ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۷۳۰,۶۵۰ تومان
+
+خرید آنلاین
+۶۰ گیگابایت ۹۰ روزه
+
+حجم بسته
+۶۰ گیگابایت
+نوع بسته
+۹۰ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۲۴۳,۵۵۰ تومان
+
+خرید آنلاین
+۱۰۰ گیگابایت ۱۸۰ روزه
+
+حجم بسته
+۱۰۰ گیگابایت
+نوع بسته
+۱۸۰ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۳۷۹,۴۸۰ تومان
+
+خرید آنلاین
+۱۵۰ گیگابایت ۱۸۰ روزه
+
+حجم بسته
+۱۵۰ گیگابایت
+نوع بسته
+۱۸۰ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۵۱۲,۵۹۰ تومان
+
+خرید آنلاین
+۳۰۰ گیگابایت ۱۸۰ روزه
+
+حجم بسته
+۳۰۰ گیگابایت
+نوع بسته
+۱۸۰ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۸۵۳,۸۴۰ تومان
+
+خرید آنلاین
+۵۰۰ گیگابایت ۱۸۰ روزه
+
+حجم بسته
+۵۰۰ گیگابایت
+نوع بسته
+۱۸۰ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۱,۳۰۹,۸۰۰ تومان
+
+خرید آنلاین
+۲۰۰گیگابایت ۳۶۵ روزه
+
+حجم بسته
+۲۰۰ گیگابایت
+نوع بسته
+۳۶۵ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۷۵۰,۴۸۰ تومان
+
+خرید آنلاین
+۴۰۰ گیگابایت ۳۶۵ روزه
+
+حجم بسته
+۴۰۰ گیگابایت
+نوع بسته
+۳۶۵ روزه
+کد تائیدیه سازمان تنظیم مقررات: 
+۵۳۳۵۰۴
+
+۱,۲۸۱,۴۸۰ تومان
+
+خرید آنلاین
+۶۰۰ گیگابایت ۳۶۵ روزه
+
+حجم بسته
+۶۰۰ گیگابایت
+نوع بسته
+۳۶۵ روزه
+کد تائیدیه سازمان تنظیم مقررات:
+۵۳۳۵۰۴
+
+۱,۶۵۱,۰۵۰ تومان
+
+خرید آنلاین
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## نتیجه: فیبر نوری به‌مراتب به‌صرفه‌تر است — حدود ۴ تا ۵ برابر ارزان‌تر به ازای هر گیگابایت
+
+یک نکته مهم ابتدا: قیمت‌های بخش **فیبر نوری به تومان** هستند، ولی بقیه بخش‌ها **به ریال** (۱ تومان = ۱۰ ریال). پس همه را به «تومان بر گیگابایت» تبدیل کردم تا مقایسه منصفانه باشد.
+
+| نوع اینترنت | بهترین بسته از نظر ارزش | هزینه مؤثر |
+|---|---|---|
+| فیبر (بهترین کل لیست) | ۳۶۵ روزه، ۸۵۰۰ گیگ @ ۱۲,۷۵۰,۰۰۰ تومان | **~۱,۵۰۰ تومان/گیگ** |
+| فیبر (بهترین کوتاه‌مدت) | ۳۰ روزه، ۸۰۰ گیگ @ ۱,۳۲۰,۰۰۰ تومان | ~۱,۶۵۰ تومان/گیگ |
+| موبایل (بهترین معمولی) | ۳۶۵ روزه، ۱۵۰ گیگ یا ۴۰۰ گیگ | **~۷,۰۰۰ تومان/گیگ** |
+| موبایل (۳۰ روزه معمولی) | بسته‌های ۴/۸/۱۰/۲۰ گیگ | ~۱۰,۵۰۰ تومان/گیگ |
+
+یعنی ارزان‌ترین اینترنت موبایلِ این لیست هنوز **حدود ۴.۵ برابر گران‌تر** از بدترین بسته فیبر است و نزدیک ۷ برابر گران‌تر از بهترین بسته فیبر. اگر فیبر در محل شما فعال است، از نظر هزینه هر گیگ، هیچ بسته موبایلی رقیب فیبر نیست.
+
+## بهترین انتخاب‌ها در هر دسته
+
+**فیبر نوری:**
+- ۳۰ روزه: ۸۰۰ گیگ @ ۱,۳۲۰,۰۰۰ تومان (۱,۶۵۰ ت/گیگ) — بسته ۷۵۰ گیگی @ ۱,۳۹۰,۰۰۰ تومان گران‌تر است و حجم کمتری هم دارد؛ نخرید.
+- ۹۰ روزه: ۲۵۰۰ گیگ @ ۴,۰۰۰,۰۰۰ تومان (۱,۶۰۰ ت/گیگ) — همین بسته دو بار با قیمت ۴,۲۵۰,۰۰۰ هم آمده؛ ارزان‌ترش را بگیرید.
+- ۱۸۰ روزه: ۵۰۰۰ گیگ @ ۷,۷۵۰,۰۰۰ تومان (۱,۵۵۰ ت/گیگ).
+- ۳۶۵ روزه: ۸۵۰۰ گیگ @ ۱۲,۷۵۰,۰۰۰ تومان (۱,۵۰۰ ت/گیگ) — **بهترین ارزش کل این فایل**.
+
+**موبایل:**
+- بهترین ارزش معمولی: ۳۶۵ روزه ۱۵۰ گیگ @ ۱۰,۵۰۰,۰۰۰ ریال یا ۴۰۰ گیگ @ ۲۸,۰۰۰,۰۰۰ ریال (هر دو ~۷,۰۰۰ ت/گیگ). هرچه مدت بلندتر، ارزان‌تر: ۳۰ روزه ~۱۰,۵۰۰ → ۹۰/۱۸۰ روزه ~۷,۸۰۰ → ۲۷۰ روزه ~۷,۵۰۰ → سالانه ~۷,۰۰۰ ت/گیگ.
+- بسته‌های شبانه: ۳۰ روزه ۱۴ گیگ @ ۷۰۰,۰۰۰ ریال می‌شود ~۵,۰۰۰ ت/گیگ — ارزان‌ترین اینترنت موبایل لیست، ولی فقط ساعات شب قابل استفاده است.
+- بسته‌های روبیکا (~۵,۷۰۰ ت/گیگ) ارزان‌اند ولی فقط داخل همان اپ کار می‌کنند.
+- «نامحدود ۲ بامداد تا ۷ صبح» ۳۰ روزه @ ۳۷۷,۴۰۰ ریال فقط وقتی عالیه که بتوانید دانلودهای سنگین را در آن ۵ ساعت بگذارید.
+
+## دام‌های قیمت‌گذاری در همین لیست
+
+- فیبر ۳۰ روزه ۶۰ گیگ (۳,۹۱۷ ت/گیگ) از بسته کوچک‌ترِ ۵۵ گیگ (۳,۶۰۰ ت/گیگ) بدتر است.
+- فیبر ۹۰ روزه ۷۵۰ گیگ و فیبر ۳۶۵ روزه ۲۱۰۰ گیگِ ۴,۵۰۰,۰۰۰ تومانی، هر دو توسط بسته‌های بزرگ‌تر/هم‌حجم قیمتی پایین‌تر زیرمی‌روند — بسته ۲۱۰۰ گیگی دو بار با قیمت ۳,۸۹۰,۰۰۰ و ۴,۵۰۰,۰۰۰ تومان آمده.
+- بسته‌های روزانه/هفتگی کوچک موبایل (۱ گیگ با ۱۱,۵۰۰ تا ۱۲,۰۰۰ ت/گیگ) بدترین ارزش لیست‌اند — فقط برای شرایط اضطراری.
+
+**یک هشدار:** محاسبه «تومان بر گیگ» فرض می‌کند کل حجم را قبل از انقضا مصرف می‌کنید. بسته سالانه ۸۵۰۰ گیگی فیبر یعنی به‌طور متوسط ~۲۳ گیگ در روز؛ اگر مصرف واقعی شما خیلی کمتر است، بسته کوچک‌تر با نرخ کمی بالاتر باز هم خریدار عاقلانه‌تری است. جمع‌بندی: مصرف سنگین خانگی → بسته‌های سالانه فیبر؛ موبایل فقط به‌عنوان جایگزین یا جایی که فیبر نمی‌رسد.
+ 
+
+Looking at this, you've actually got four separate package groups here — a fiber-optic (FTTH) plan list priced in Toman, and three mobile/wireless data plan lists priced in Rial. Here's the value breakdown (cost per GB):
+1. Fiber optic (FTTH) — priced in Toman This is clearly the best value tier overall. Larger, longer-term bundles get cheap fast:
+365 days / 8500GB → 12,750,000 T = ~1,500 T/GB
+180 days / 5000GB → 7,750,000 T = ~1,550 T/GB
+90 days / 2500GB → 4,000,000 T = ~1,600 T/GB
+Smaller/short packages are worse: 30-day 55GB is ~3,600 T/GB — over 2x pricier per GB than the big bundles.
+Rule of thumb for fiber: the bigger and longer the package, the cheaper per GB. Anything 2500GB+ on the 90/180/365-day tiers is where the real value is.
+2. Mobile packages (the 533685/534063 list, in Rial) Converting to Toman for a fair comparison, this tier is far more expensive per GB than fiber:
+365 days / 400GB or 150GB → ~7,000 T/GB
+Short packages (1–30 days) → 10,000–12,000+ T/GB So even the cheapest mobile option here (~7,000 T/GB) costs roughly 4–5x more per GB than the cheapest fiber option.
+3. نذرآب (charity) packages ~8,500–8,700 T/GB — similar to standard mobile pricing, no real value edge (you're paying a premium that partly funds the stated charity cause).
+4. شبانه (night) packages ~4,950–5,000 T/GB — better than daytime mobile packages, worst than fiber, but a reasonable middle ground if you mainly need data at night.
+5. Last list (Rubika-specific, morning packages, new-subscriber specials) Mixed bag, but two standouts:
+The morning package (12GB/30 days, 6am–12pm only) → ~1,580 T/GB — exceptional value, rivaling fiber, but only usable in that time window.
+Rubika-specific packages (e.g., 22GB/30 days) → ~5,700–6,400 T/GB — decent if you mainly use Rubika.
+Everything else in tiny/short packages (1–7 day, sub-1GB) is brutal: 15,000–40,000+ T/GB — the worst value in the whole document by far.
+Bottom line
+If you have a choice, fiber-optic large/long bundles (2500GB+, 90–365 days) give the best cost per gigabyte by a wide margin — roughly 1,500–1,700 T/GB.
+Among mobile options, avoid tiny short-duration packages (1–7 days, <2GB) — they're 10–25x more expensive per GB than large fiber bundles.
+The time-restricted morning package is a hidden gem if that window works for your usage pattern.
+Want me to build this into a sortable table/spreadsheet so you can filter by duration or price?
+
+
+برای تعیین اینکه کدام بسته **بیشترین ارزش خرید (Value for Money)** را دارد، من تمام بسته‌های لیست شده را بر اساس **«هزینه به ازای هر گیگابایت»** محاسبه و مقایسه کرده‌ام. 
+
+نکته مهم: در متن شما، قیمت بسته‌های فیبر نوری به **تومان** و قیمت سایر بسته‌ها به **ریال** درج شده است. برای مقایسه عادلانه، تمام قیمت‌ها به **تومان** تبدیل شده‌اند (هر ۱۰,۰۰۰ ریال = ۱ تومان).
+
+در ادامه، بهترین گزینه‌ها بر اساس نیازهای مختلف دسته‌بندی شده‌اند:
+
+---
+
+### 🥇 ۱. بهترین ارزش خرید مطلق (بیشترین حجم، کمترین هزینه به ازای هر گیگ)
+اگر اتصال فیبر نوری (FTTH) دارید و مصرف بالایی دارید، بسته‌های فیبر نوری با اختلاف زیاد به‌صرفه‌ترین گزینه‌ها هستند:
+
+1. **بسته ۳۶۵ روزه ۸۵۰۰ گیگابایتی (تا ۱۰۰ مگابیت)**: 
+   - قیمت: ۱۲,۷۵۰,۰۰۰ تومان 
+   - هزینه هر گیگ: **۱,۵۰۰ تومان** (ارزان‌ترین نرخ در کل لیست برای اینترنت کامل)
+2. **بسته ۱۸۰ روزه ۵۰۰۰ گیگابایتی (تا ۱۰۰ مگابیت)**: 
+   - قیمت: ۷,۷۵۰,۰۰۰ تومان 
+   - هزینه هر گیگ: **۱,۵۵۰ تومان**
+3. **بسته ۳۶۵ روزه ۸۸۰۰ گیگابایتی (تا ۱۰۰۰ مگابیت)**: 
+   - قیمت: ۱۴,۰۰۰,۰۰۰ تومان 
+   - هزینه هر گیگ: **۱,۵۹۰ تومان** (بهترین گزینه برای ترکیب سرعت گیگابیتی و حجم بسیار بالا)
+4. **بسته ۹۰ روزه ۲۵۰۰ گیگابایتی (تا ۱۰۰ مگابیت)**: 
+   - قیمت: ۴,۰۰۰,۰۰۰ تومان 
+   - هزینه هر گیگ: **۱,۶۰۰ تومان** (بهترین گزینه میان‌مدت)
+
+---
+
+### 🥈 ۲. بهترین ارزش خرید برای مصرف‌کنندگان عادی (بسته‌های ۳۰ روزه فیبر)
+اگر نمی‌خواهید مبلغ زیادی را یکجا پرداخت کنید، بسته‌های ماهانه فیبر نوری همچنان ارزش خرید فوق‌العاده‌ای دارند:
+
+1. **بسته ۳۰ روزه ۸۰۰ گیگابایتی (تا ۱۰۰ مگابیت)**: 
+   - قیمت: ۱,۳۲۰,۰۰۰ تومان 
+   - هزینه هر گیگ: **۱,۶۵۰ تومان**
+2. **بسته ۳۰ روزه ۷۵۰ گیگابایتی (تا ۱۰۰۰ مگابیت)**: 
+   - قیمت: ۱,۳۹۰,۰۰۰ تومان 
+   - هزینه هر گیگ: **۱,۸۵۳ تومان**
+
+---
+
+### 🥉 ۳. بهترین گزینه‌ها برای بودجه محدود یا مشترکین جدید (غیر فیبر)
+اگر اتصال فیبر نوری ندارید یا به حجم کمی نیاز دارید، این بسته‌ها کمترین هزینه را به ازای هر گیگابایت دارند:
+
+1. **بسته ۳۰ روزه ۷ گیگابایتی (ویژه مشترکین جدید)**: 
+   - قیمت: ۳۴,۹۰۰ تومان 
+   - هزینه هر گیگ: **۴,۹۸۵ تومان** (بسیار مقرون‌به‌صرفه برای تست سرویس)
+2. **بسته ۳۰ روزه ۵ گیگابایتی (ویژه مشترکین جدید)**: 
+   - قیمت: ۲۹,۲۰۰ تومان 
+   - هزینه هر گیگ: **۵,۸۴۰ تومان**
+
+---
+
+### ⏰ ۴. بهترین گزینه‌ها برای مصرف خاص (زمان‌دار یا برنامه‌محور)
+این بسته‌ها ارزان هستند اما محدودیت زمانی یا برنامه‌ای دارند:
+
+1. **بسته صبحانت ۳۰ روزه ۱۲ گیگابایتی (ساعت ۶ صبح تا ۱۲ ظهر)**: 
+   - قیمت: ۱۸,۹۷۰ تومان 
+   - هزینه هر گیگ: **۱,۵۸۰ تومان** (از نظر ریاضی ارزان‌ترین است، اما فقط صبح‌ها قابل استفاده است).
+2. **بسته شبانه ۳۰ روزه ۲۰ گیگابایتی**: 
+   - قیمت: ۹۹,۰۰۰ تومان 
+   - هزینه هر گیگ: **۴,۹۵۰ تومان** (مناسب برای دانلودهای سنگین در شب).
+3. **بسته ۳۰ روزه ۲۲ گیگابایتی ویژه روبیکا**: 
+   - قیمت: ۱۲۵,۴۰۰ تومان 
+   - هزینه هر گیگ: **۵,۷۰۰ تومان** (فقط برای ترافیک داخلی برنامه روبیکا).
+
+---
+
+### 💡 جمع‌بندی و توصیه نهایی:
+- **اگر فیبر نوری دارید:** بدون شک بسته **۳۶۵ روزه ۸۵۰۰ گیگابایتی (۱۰۰ مگابیت)** یا **۱۸۰ روزه ۵۰۰۰ گیگابایتی** را انتخاب کنید. هیچ بسته دیگری در این لیست (و حتی اکثر سرویس‌دهنده‌های دیگر) نمی‌تواند با نرخ ~۱,۵۰۰ تومان به ازای هر گیگابایت رقابت کند.
+- **اگر فیبر نوری ندارید و مصرفتان کم است:** بسته **۳۰ روزه ۷ گیگابایتی ویژه مشترکین جدید** با قیمت ۳۴,۹۰۰ تومان، منطقی‌ترین انتخاب برای شروع است.
+- **اگر فقط دانلود شبانه دارید:** بسته **شبانه ۳۰ روزه ۲۰ گیگابایتی** با ۹۹,۰۰۰ تومان بهترین انتخاب است.
+
+*توجه: برای خرید بسته‌های فیبر نوری، حتماً باید «شماره سرویس فیبر نوری یا FTTH ID» را داشته باشید، در غیر این صورت سیستم اجازه خرید نمی‌دهد.*
+
+
+
+Fiber optic (FTTH) packages offer by far the best value for money. The mobile/short-term packages (priced in Rials) are much more expensive per GB.
+Quick comparison method
+I calculated approximate price per GB (in Tomans).
+1 Toman ≈ 10 Rials, so the later packages were converted.
+Lower price/GB = better value.
+Longer/higher-volume packages are usually cheaper per GB.
+Fiber also gives much higher speeds (100 Mbps–1 Gbps) vs typical mobile speeds.
+These are volume-capped packages (not truly unlimited).
+Fiber FTTH packages (best value overall)
+These start around 1,600–3,600 Toman/GB and improve with higher volume/longer duration.
+Best value examples (lowest price/GB):
+Duration
+Volume
+Speed
+Price (Toman)
+≈ Price/GB
+Notes
+90-day
+2,500 GB
+100 Mbps
+4,000,000
+1,600
+Excellent
+90-day
+2,500 GB
+1 Gbps
+4,250,000
+1,700
+Excellent
+30-day
+800 GB
+100 Mbps
+1,320,000
+1,650
+Strong short-term
+180-day
+5,000 GB
+100 Mbps
+7,750,000
+1,550
+Very strong
+365-day
+8,500 GB
+100 Mbps
+12,750,000
+1,500
+Best long-term
+365-day
+8,800 GB
+1 Gbps
+14,000,000
+1,590
+Best long-term high-speed
+
+Other solid options:
+30-day 320 GB (100 Mbps) → ~1,953 T/GB
+90-day 750 GB (100 Mbps) → ~1,960 T/GB
+180-day 1,200 GB (100 Mbps) → ~1,900 T/GB
+Smaller fiber packages (e.g. 55–180 GB / 30 days) cost 2,500–3,900 T/GB — still decent but worse value than the high-volume ones.
+Mobile / short-term packages (much worse value)
+These are typically 5,000–15,000+ Toman/GB (or higher for daily/weekly).
+Examples:
+1-day 1 GB → 11,500 T/GB
+30-day 3–10 GB range → often 8,000–12,000+ T/GB
+30-day 20 GB → ~10,500 T/GB
+Night / Nazr-Ab / Rubika specials → still several times more expensive per GB than fiber
+Long mobile ones (e.g. 365-day 150–400 GB) improve a bit but remain far above fiber rates (often 4,000–7,000+ T/GB)
+Even the “best” mobile packages in the list cost several times more per GB than mid-to-high fiber packages, and they have lower speeds and more restrictions.
+Summary – What has the most value for money?
+Highest value: Large long-duration fiber packages
+365-day ~8,500–8,800 GB or 180-day 5,000 GB (around 1,500–1,600 Toman/GB)
+90-day 2,500 GB packages are also excellent if you don’t want a full year commitment.
+Good short-term fiber: 30-day 800 GB or 320 GB packages.
+Avoid for value: Almost all the Rial-priced mobile/daily/weekly/night packages unless you specifically need mobile data or have no fiber access. They are 3–10× more expensive per GB.
+Recommendation: If you have (or can get) FTTH service, go for one of the high-volume fiber packages (especially 90+ days and 2,000+ GB). They give dramatically better price-per-GB and much higher speeds. The mobile packages only make sense for occasional/on-the-go use.
+Prices and availability can change, and actual usable volume sometimes differs between domestic/international traffic depending on the operator. Check the exact terms on the provider’s site before buying.
+Here’s the breakdown:
+
+🏆 Best Value for Money (Overall)
+The absolute best value in this list is:
+بسته ۱۸۰ روزه ۵۰۰۰ گیگابایتی فیبرنوری
+(180-day, 5000 GB package – 100 Mbps)
+Price: 7,750,000 تومان
+Price per GB: 1,550 تومان/GB
+Price per day: 43,055 تومان/day
+Speed: up to 100 Mbps
+This gives you the lowest cost per gigabyte and a very reasonable daily cost for a huge amount of data over 6 months.
+
+🥈 Second Best Value
+بسته ۱۸۰ روزه ۳۷۰۰ گیگابایتی فیبرنوری
+(180-day, 3700 GB – 1 Gbps)
+Price: 6,400,000 تومان
+Price per GB: 1,730 تومان/GB
+Price per day: 35,555 تومان/day
+Speed: up to 1 Gbps (10x faster than the #1 pick)
+If you need high speed, this is the best compromise between price/GB and performance.
+
+🥉 Third Best Value
+بسته ۳۶۵ روزه ۸۸۰۰ گیگابایتی فیبرنوری
+(365-day, 8800 GB – 1 Gbps)
+Price: 14,000,000 تومان
+Price per GB: 1,590 تومان/GB
+Price per day: 38,356 تومان/day
+Speed: up to 1 Gbps
+Great for heavy users who want a full year of coverage with top speed.
+
+❌ Worst Value (Avoid)
+بسته ۳۰ روزه ۵۵ گیگابایتی
+(30-day, 55 GB – 100 Mbps)
+Price: 198,000 تومان
+Price per GB: 3,600 تومان/GB
+Very expensive per GB compared to larger packages.
+Also, the small Rial-based packages (e.g., 1 GB for 115,000 Rial = ~11,500 تومان/GB) are extremely poor value – avoid unless you absolutely need a tiny top-up.
+
+📊 Summary Table (Top Picks)
+Package
+Duration
+Volume
+Speed
+Price (تومان)
+Price/GB
+Price/Day
+Best For
+180-day 5000 GB
+180 days
+5000 GB
+100 Mbps
+7,750,000
+1,550
+43,055
+Best price/GB
+365-day 8800 GB
+365 days
+8800 GB
+1 Gbps
+14,000,000
+1,590
+38,356
+Best yearly + speed
+180-day 3700 GB
+180 days
+3700 GB
+1 Gbps
+6,400,000
+1,730
+35,555
+Best speed for price
+90-day 2500 GB (100 Mbps)
+90 days
+2500 GB
+100 Mbps
+4,000,000
+1,600
+44,444
+Good short-term value
+
+
+✅ Final Recommendation
+If you want the absolute cheapest per GB → 180-day 5000 GB (100 Mbps)
+If you want speed + value → 180-day 3700 GB (1 Gbps)
+If you want a full year + speed → 365-day 8800 GB (1 Gbps)
+Avoid any package under 100 GB – they are priced at a huge premium.
+Yes. I converted everything to the same unit: تومان per GB and compared the plans purely on volume/value, ignoring speed differences for the moment.
+🏆 Best value among the FTTH/fiber packages
+Package
+Price
+Volume
+Cost / GB
+Value
+365 روزه 8500GB / 100Mbps
+12,750,000 تومان
+8,500 GB
+1,500 تومان/GB
+🥇
+180 روزه 5000GB / 100Mbps
+7,750,000
+5,000 GB
+1,550
+🥈
+365 روزه 8800GB / 1Gbps
+14,000,000
+8,800 GB
+1,591
+🥉
+90 روزه 2500GB / 100Mbps
+4,000,000
+2,500 GB
+1,600
+Excellent
+90 روزه 2500GB / 1Gbps
+4,250,000
+2,500 GB
+1,700
+Excellent
+180 روزه 3700GB / 1Gbps
+6,400,000
+3,700 GB
+1,730
+Very good
+365 روزه 2100GB / 100Mbps
+3,890,000
+2,100 GB
+1,852
+Good
+30 روزه 800GB / 100Mbps
+1,320,000
+800 GB
+1,650
+Very good
+
+Important: the 8500GB annual package is the cheapest per GB of all the fiber packages you supplied.
+
+But there is an even bigger issue
+The other packages you listed are mobile/general Internet packages, and their prices are in ریال, while the FTTH prices are in تومان.
+After converting ریال → تومان:
+Cheapest cost/GB in the second group
+Package
+Price
+Volume
+تومان/GB
+365 روزه 150GB
+105,000 تومان
+150GB
+700
+365 روزه 400GB
+280,000 تومان
+400GB
+700
+270 روزه 50GB
+37,500 تومان
+50GB
+750
+270 روزه 72GB
+54,000 تومان
+72GB
+750
+365 روزه 80GB
+60,000 تومان
+80GB
+750
+90 روزه 18GB
+14,040 تومان
+18GB
+780
+180 روزه 36GB
+28,080 تومان
+36GB
+780
+90 روزه 15GB
+12,000 تومان
+15GB
+800
+60 روزه 15GB
+12,000 تومان
+15GB
+800
+
+So if those ریالی prices are correct, the mobile/general packages are dramatically cheaper per GB than the fiber packages.
+🚨 However, there is likely a unit/source difference
+For example:
+Fiber:
+8500 GB = 12,750,000 تومان
+Other package:
+400 GB = 28,000,000 ریال = 2,800,000 تومان
+That's 700 تومان/GB, versus 1,500 تومان/GB for the fiber package.
+So the second package is about 53% cheaper per GB.
+But these aren't necessarily apples-to-apples because the second list appears to be mobile operator packages, while the first is FTTH home broadband. They may have different traffic policies, network quality, peak/off-peak restrictions, FUP, activation conditions, etc.
+
+🥇 My picks
+If you specifically want fiber/FTTH
+Best absolute value:
+🏆 365 روزه — 8500GB — 100Mbps — 12,750,000 تومان
+1,500 تومان/GB
+You get approximately:
+8.5 TB/year = 708 GB/month average
+That's a very large allowance.
+Best value if you want 1Gbps
+🏆 365 روزه — 8800GB — 1Gbps — 14,000,000 تومان
+Only 1,250,000 تومان more than the 8500GB/100Mbps package, while giving you:
++300 GB
+10× advertised speed
+1Gbps instead of 100Mbps
+That's arguably the best premium/value package.
+The additional cost is only about 9.8%, while the advertised speed increases by 10×.
+
+💰 The sweet spot
+I would particularly look at these:
+🥇 365d 8500GB / 100Mbps
+12.75m تومان
+Best if you care almost exclusively about maximum GB per تومان.
+🥈 180d 5000GB / 100Mbps
+7.75m تومان
+Excellent if you don't want to commit to a full year.
+🥉 90d 2500GB / 100Mbps
+4m تومان
+Very good if you want to spend less upfront.
+⭐ 365d 8800GB / 1Gbps
+14m تومان
+My overall favorite if the 1Gbps connection actually delivers close to that speed.
+
+One surprising result
+The 365-day 1500GB package for 3.3m is actually worse value than the 365-day 2100GB package for 3.89m.
+Compare:
+1500GB:
+ 3,300,000 ÷ 1,500 = 2,200 تومان/GB
+2100GB:
+ 3,890,000 ÷ 2,100 = 1,852 تومان/GB
+You pay only 590,000 تومان more but get 600GB extra.
+So I'd skip the 1500GB and take the 2100GB if your usage fits.
+
+Bottom line
+For FTTH:
+ 🥇 8500GB / 365d / 100Mbps — 12.75m = best pure value
+ 🥇 8800GB / 365d / 1Gbps — 14m = best overall/premium value
+ 🥈 5000GB / 180d / 100Mbps — 7.75m = best shorter-term value
+ 🥉 2500GB / 90d / 100Mbps — 4m = best lower-cost option
+For the second list: the 365-day 400GB and 150GB packages at 700 تومان/GB are actually the best value per GB, assuming the prices and units you pasted are correct.
+If you want, I can also calculate exactly which package wins for 100GB/month, 200GB/month, 300GB/month, 500GB/month and 1TB/month usage, including the cost per month and cost per year.
+Got it — comparing the two lists. One important detail first: the fiber (FTTH) section is priced in **Toman**, while all the mobile sections are in **Rial** (1 Toman = 10 Rial), so I converted everything to Toman per GB before comparing.
+
+## Verdict: Fiber wins by a wide margin — roughly 4–5× cheaper per GB
+
+| Type | Best-value plan | Effective cost |
+|---|---|---|
+| Fiber (best overall) | 365-day, 8,500 GB @ 12,750,000 T | **~1,500 T/GB** |
+| Fiber (best short-term) | 30-day, 800 GB @ 1,320,000 T | ~1,650 T/GB |
+| Mobile (best standard) | 365-day, 150 GB or 400 GB | **~7,000 T/GB** |
+| Mobile (30-day flat) | any of the 4/8/10/20 GB plans | ~10,500 T/GB |
+
+So the cheapest mobile data on the list still costs about 4.5× more per GB than the worst fiber plan, and nearly 7× more than the best fiber plan. If FTTH is available at your address, every fiber package dominates every mobile package on pure cost per GB — no contest.
+
+## Best picks within each category
+
+**Fiber:**
+- 30-day: 800 GB @ 1,320,000 T (1,650 T/GB) — note the 750 GB plan @ 1,390,000 T costs *more* for less data; skip it.
+- 90-day: 2,500 GB @ 4,000,000 T (1,600 T/GB) — there's a duplicate listed at 4,250,000 T; take the cheaper one.
+- 180-day: 5,000 GB @ 7,750,000 T (1,550 T/GB).
+- 365-day: 8,500 GB @ 12,750,000 T (1,500 T/GB) — best value in the entire file.
+
+**Mobile:**
+- Best standard value: 365-day 150 GB @ 10,500,000 R or 400 GB @ 28,000,000 R (both 7,000 T/GB). The longer plans get progressively cheaper (30-day ≈ 10,500 → 90/180-day ≈ 7,800 → 270-day ≈ 7,500 → yearly ≈ 7,000).
+- Night-only (شبانه): 30-day 14 GB @ 700,000 R works out to ~5,000 T/GB — the cheapest mobile data here, but only usable during night hours.
+- Rubika bundles (~5,700 T/GB) are cheap but restricted to that one app.
+- The "unlimited 2am–7am" 30-day plan at 377,400 R is excellent *only* if you can schedule heavy downloads in that 5-hour window.
+
+## Watch out for these traps in the list
+
+- Fiber 30-day 60 GB (3,917 T/GB) is worse value than the smaller 55 GB plan (3,600 T/GB).
+- Fiber 90-day 750 GB and 365-day 2,100 GB @ 4,500,000 T are both undercut by bigger/same-size plans — the 2,100 GB plan appears twice at 3,890,000 T and 4,500,000 T for identical data.
+- Mobile daily/weekly small packs (1 GB for 11,500–12,000 T/GB) are the worst value in the file — emergency use only.
+
+One caveat: per-GB numbers assume you actually consume the full volume before expiry. A yearly 8,500 GB fiber plan averages ~23 GB/day — if your real usage is much lower, a smaller plan at a slightly higher per-GB rate can still be the smarter spend. As a rule of thumb: heavy household use → fiber yearly plans; mobile only as backup or where fiber can't reach.
+
+
+مقایسه بسته ها اینترنت ا
+یران value   profitablity
 مشاهده و خرید بسته فیبر نوری
 برای مشاهده و خرید بسته‌ها ابتدا شماره سرویس فیبر نوری یا FTTH ID (کد ۱۰ رقمی ارسال‌شده در هنگام خرید) خود را وارد نمایید.
 
