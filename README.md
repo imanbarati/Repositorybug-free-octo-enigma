@@ -78,7 +78,7 @@ OK → ذخیره کنید
 یک Device profile بسازید (یا Default رو ویرایش کنید)
 مطمئن بشید WARP mode روی DNS یا WARP تنظیم شده
 Cloudflare One Client رو از این صفحه دانلود کنید (Windows / macOS / Linux / iOS / Android)
-بعد از نصب، با ایمیل baratiiman3@gmail.com لاگین کنید
+بعد از نصب، با ایمیل @gmail.com لاگین کنید
 Client به‌صورت خودکار از DoH endpoint شما استفاده می‌کنه
 تنظیم WARP روی حالت DNS-only (فقط DoH)
 اگر می‌خواید فقط DNS از طریق Gateway بره و بقیه ترافیک مستقیم باشه:
