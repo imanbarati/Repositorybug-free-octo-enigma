@@ -1,4 +1,4 @@
-oracrouter vs opencode vs 9router vs omnirouter
+hermes oracrouter vs opencode vs 9router vs omnirouter
 **Ox Alpha** is a recent “stealth” (anonymous) reasoning model that appeared around August 20, 2026. It is **not** a standalone provider with its own official console like the others in your list.
 
 ### Key facts
