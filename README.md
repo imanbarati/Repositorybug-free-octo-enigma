@@ -1,4 +1,127 @@
 oracrouter vs opencode vs 9router vs omnirouter
+**Ox Alpha** is a recent “stealth” (anonymous) reasoning model that appeared around August 20, 2026. It is **not** a standalone provider with its own official console like the others in your list.
+
+### Key facts
+- **Model ID**: `stealth/ox-alpha`
+- **Main access point**: OpenRouter (and some other API aggregators that route to it)
+- **Current pricing**: Free ($0 input / $0 output) during the preview period (this can change)
+- **Context**: ~1 million tokens
+- **Strengths**: Coding, long-horizon agentic work, complex reasoning
+- **Inputs**: Text, image, and video
+- **Developer**: Anonymous third-party (widely speculated to be related to Zhipu/Z.ai / GLM family, but unconfirmed)
+
+There is no dedicated “Ox Alpha” signup page or official key portal of its own.
+
+### How to get access / generate a key
+1. Go to the official OpenRouter site: [https://openrouter.ai](https://openrouter.ai)
+2. Sign up or log in.
+3. Go to your account settings / **Keys** section and create an API key.
+4. Use the model name `stealth/ox-alpha` in your requests.
+
+Example (OpenAI-compatible):
+
+```bash
+curl https://openrouter.ai/api/v1/chat/completions \
+  -H "Authorization: Bearer $OPENROUTER_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "stealth/ox-alpha",
+    "messages": [{"role": "user", "content": "Hello"}]
+  }'
+```
+
+You can also try free browser chat interfaces on sites like oxalpha.com or oxalpha.app (these do not require an API key and have daily limits).
+
+### Important notes
+- Free access and rate limits are temporary and controlled by the anonymous provider via OpenRouter.
+- Always generate and use your **own** OpenRouter key — do not use shared or leaked keys.
+- Check the live OpenRouter page for `stealth/ox-alpha` for the latest pricing, limits, and status, as the free preview can end or change at any time.
+
+Would you like the exact steps for creating an OpenRouter key, or help with a code example to call Ox Alpha?
+Here’s a clear, step-by-step guide for generating API keys on each of the official platforms you asked about.
+
+### 1. Alibaba Qwen (DashScope / Model Studio)
+1. Go to [modelstudio.console.alibabacloud.com](https://modelstudio.console.alibabacloud.com) (or the China version if needed).
+2. Sign up / log in with an Alibaba Cloud account.
+3. Open **Dashboard** → **API Keys** (or **密钥管理**).
+4. Click **+ Create API Key** / **创建 API Key**.
+5. Copy the key immediately (it starts with `sk-`).
+
+### 2. Anthropic (Claude)
+1. Go to [platform.claude.com](https://platform.claude.com) (or console.anthropic.com).
+2. Create a Console account (separate from claude.ai chat).
+3. Go to **Settings → API keys**.
+4. Click **Create key**.
+5. Copy the key (starts with `sk-ant-`).
+
+### 3. DeepSeek
+1. Go to [platform.deepseek.com](https://platform.deepseek.com).
+2. Sign up / log in (email or phone).
+3. In the left sidebar, open **API Keys**.
+4. Click **Create new secret key**.
+5. Copy the key right away (it is shown only once).  
+   Note: You usually need to add a small balance before the key works.
+
+### 4. Google Gemini (AI Studio)
+1. Go to [aistudio.google.com](https://aistudio.google.com).
+2. Sign in with your Google account.
+3. Click **Get API key** (or go to the API keys page).
+4. Click **Create API key** and choose/create a project.
+5. Copy the key.
+
+### 5. Google Vertex AI
+1. Go to [console.cloud.google.com](https://console.cloud.google.com).
+2. Create or select a Google Cloud project and enable billing (new accounts often get free credits).
+3. Enable the **Vertex AI API**.
+4. You can use an API key or (recommended for production) Application Default Credentials / service account.  
+   For a simple API key: go to **APIs & Services → Credentials → Create credentials → API key**.
+
+### 6. MiniMax
+1. Go to [platform.minimax.io](https://platform.minimax.io) (or platform.minimaxi.com).
+2. Sign up / log in.
+3. Go to **Account management / Access / Interface Key** (or **接口密钥**).
+4. Click **Create new API key** / **创建新的密钥**.
+5. Copy the key.
+
+### 7. Moonshot (Kimi)
+1. Go to [platform.kimi.ai](https://platform.kimi.ai) or [platform.kimi.com](https://platform.kimi.com).
+2. Sign up / log in.
+3. Open **API Keys** (or **API Key 管理**).
+4. Click **Create / 新建 API Key**.
+5. Copy the key.
+
+### 8. OpenAI
+1. Go to [platform.openai.com](https://platform.openai.com).
+2. Sign up / log in (this is separate from ChatGPT).
+3. Add a payment method under **Billing** (required for most usage).
+4. Go to **API keys** in the left sidebar.
+5. Click **Create new secret key**.
+6. Copy the key immediately (starts with `sk-`).
+
+### 9. xAI (Grok)
+1. Go to [console.x.ai](https://console.x.ai).
+2. Sign up / log in.
+3. Go to the **API Keys** section.
+4. Click **Create API key**.
+5. Copy the key and store it safely.
+
+### 10. Z.ai (Zhipu / GLM)
+1. Go to [open.bigmodel.cn](https://open.bigmodel.cn) (or the international docs site [docs.z.ai](https://docs.z.ai)).
+2. Sign up / log in.
+3. Go to **API Keys** / personal center.
+4. Click **Create API Key**.
+5. Copy the key.
+
+---
+
+### Important tips for all providers
+- Copy the key **immediately** — many platforms show it only once.
+- Never share or commit API keys to public code repositories.
+- Store them as environment variables (e.g. `export OPENAI_API_KEY="sk-..."`).
+- Most providers require you to add billing or top-up credits before the key can be used at scale (Google Gemini AI Studio is one of the more generous free tiers).
+- Always generate keys only on the official sites listed above.
+
+Would you like the detailed steps for just one or two specific providers, or help with how to use a key after you generate it?
 
 ## جدول مقایسه‌ای
 
