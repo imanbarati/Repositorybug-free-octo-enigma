@@ -1,4 +1,127 @@
 hermes oracrouter vs opencode vs 9router vs omnirouter
+Available
+AionLabsNot configured
+AkashMLNot configured
+Alibaba Cloud Int.Not configured
+Amazon BedrockNot configured
+AnthropicNot configured
+Arcee AINot configured
+AtlasCloudNot configured
+AzureNot configured
+Baidu QianfanNot configured
+BasetenNot configured
+CerebrasNot configured
+ChutesNot configured
+CloudflareNot configured
+CohereNot configured
+CoreWeaveNot configured
+CrusoeNot configured
+DecartNot configured
+DeepgramNot configured
+DeepInfraNot configured
+DeepSeekNot configured
+DigitalOceanNot configured
+FireworksNot configured
+Fish AudioNot configured
+FriendliNot configured
+GMICloudNot configured
+Google AI StudioNot configured
+Google VertexNot configured
+GroqNot configured
+InceptionNot configured
+InceptronNot configured
+io.netNot configured
+LiquidNot configured
+MancerNot configured
+MetaNot configured
+MiniMaxNot configured
+MistralNot configured
+ModalNot configured
+Moonshot AINot configured
+MorphNot configured
+Nebius Token FactoryNot configured
+NextBitNot configured
+NovitaAINot configured
+NVIDIANot configured
+OpenAINot configured
+OpenInferenceNot configured
+ParasailNot configured
+PerceptronNot configured
+PerplexityNot configured
+PhalaNot configured
+PoolsideNot configured
+Reka AINot configured
+RelaceNot configured
+Sail ResearchNot configured
+SakanaNot configured
+SambaNovaNot configured
+SiliconFlowNot configured
+SpaceXAINot configured
+StepFunNot configured
+StreamLakeNot configured
+Tencent CloudNot configured
+Thinking MachinesNot configured
+TogetherNot configured
+UpstageNot configured
+VeniceNot configured
+Voyage AI by MongoDBNot configured
+WaferNot configured
+XiaomiNot configured
+Z.aiNot configured
+Show less
+Key Priority and Fallback
+This list is the **provider configuration** screen (most likely from **OpenRouter** or a similar multi-provider client).  
+
+“**Not configured**” means you haven’t added your own API key for that provider yet.  
+
+“**Key Priority and Fallback**” lets you control the order in which providers are tried when a model is available from several places (e.g. try your Anthropic key first, then fall back to Google, then to a cheaper host, etc.).
+
+### How it works
+- You create an account on the **official site** of each provider you want.
+- Generate an API key there.
+- Paste the key into this configuration screen.
+- Set priority / fallback order if the tool supports it.
+
+### Official signup / key pages for the main ones
+
+| Provider | Official site / console |
+|----------|-------------------------|
+| **Anthropic** | [platform.claude.com](https://platform.claude.com) |
+| **OpenAI** | [platform.openai.com](https://platform.openai.com) |
+| **Google AI Studio** | [aistudio.google.com](https://aistudio.google.com) |
+| **Google Vertex** | [console.cloud.google.com](https://console.cloud.google.com) |
+| **DeepSeek** | [platform.deepseek.com](https://platform.deepseek.com) |
+| **Mistral** | [console.mistral.ai](https://console.mistral.ai) |
+| **Groq** | [console.groq.com](https://console.groq.com) |
+| **Together** | [api.together.ai](https://api.together.ai) |
+| **Fireworks** | [fireworks.ai](https://fireworks.ai) |
+| **DeepInfra** | [deepinfra.com](https://deepinfra.com) |
+| **Cerebras** | [cloud.cerebras.ai](https://cloud.cerebras.ai) |
+| **Cohere** | [dashboard.cohere.com](https://dashboard.cohere.com) |
+| **Perplexity** | [perplexity.ai](https://www.perplexity.ai) (API section) |
+| **MiniMax** | [platform.minimax.io](https://platform.minimax.io) |
+| **Moonshot AI** | [platform.kimi.ai](https://platform.kimi.ai) |
+| **Z.ai** | [open.bigmodel.cn](https://open.bigmodel.cn) / [docs.z.ai](https://docs.z.ai) |
+| **Alibaba Cloud Int.** | [modelstudio.console.alibabacloud.com](https://modelstudio.console.alibabacloud.com) |
+| **Amazon Bedrock** | [console.aws.amazon.com/bedrock](https://console.aws.amazon.com/bedrock) |
+| **Azure** | Azure Portal → Azure OpenAI / AI services |
+| **NVIDIA** | [build.nvidia.com](https://build.nvidia.com) |
+| **SiliconFlow** | [siliconflow.cn](https://siliconflow.cn) or international equivalent |
+| **NovitaAI** | [novita.ai](https://novita.ai) |
+| **Baseten** | [baseten.co](https://www.baseten.co) |
+| **AionLabs** | [aionlabs.ai](https://www.aionlabs.ai) |
+| **Arcee AI** | [arcee.ai](https://www.arcee.ai) |
+| **AtlasCloud** | [atlascloud.ai](https://atlascloud.ai) |
+
+Many of the others (AkashML, Chutes, CoreWeave, Crusoe, Friendli, GMICloud, io.net, Liquid, Mancer, Modal, Nebius, Phala, Poolside, SambaNova, StepFun, Tencent Cloud, Xiaomi, etc.) are specialized inference hosts or cloud platforms. You usually sign up on their own websites and create an API key there.
+
+### Practical advice
+1. Start with the ones that have free tiers or cheap credits: **Google AI Studio**, **Groq**, **DeepSeek**, **Together**, **Fireworks**, **Cerebras**.
+2. Only add keys for providers you actually plan to use — you don’t need to configure all of them.
+3. For **Ox Alpha** (the stealth model), you mainly need an **OpenRouter** key (or another aggregator that routes to `stealth/ox-alpha`).
+4. Always generate keys yourself on the official sites. Never use shared or leaked keys.
+
+Would you like me to give the exact step-by-step key-generation instructions for a specific group of these providers (e.g. the free/cheap ones, or the big frontier ones)? Just tell me which ones you want to set up first.
 **Ox Alpha** is a recent “stealth” (anonymous) reasoning model that appeared around August 20, 2026. It is **not** a standalone provider with its own official console like the others in your list.
 
 ### Key facts
